@@ -10,13 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Copper Email Solution
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Copper Email Solution is a corporate email solution which can be used by any corporate organization and monitor and control from a central access point. It consists of 3 main parts as
+1. Copper Base
+2. Copper Suite
+3. Copper Hub
 
-## Header 2
+## Copper Base
 
-> This is a blockquote following a header.
+> Copper Base has the main compon
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
