@@ -18,35 +18,14 @@ Copper Email Solution is a corporate email solution which can be used by any cor
 ![Octocat](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/mailServerArchitecture.png)
 
 
-> Copper Base contain the email  soltions.
-  > Postfix (MTA)
-  > Dovecot (MDA)
-  > Rspamd  (spam filter)
-  > Rainloop (Web mail)
-  > OpenLdap 
-  
+#### Copper Base contains the email  soltions.
 
-### Postfix
 - [POSTFIX](http://www.postfix.org/) : a modular mail transfer agent.
-### Dovecot
 - [DOVECOT](https://www.dovecot.org/) : secure open-source IMAP and POP3 server.
-### Rspamd
 - [Rspamd](https://rspamd.com/) : spam filter.
-### Rainloop
 - [RAINLOOP](https://www.rainloop.net/) : web client to access mail for users.
-### OpenLDAP
 - [openldap](https://www.openldap.org/) : directory service which authenticate users.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```Deply the project
-```
 
 ## Contributors wellcome
 
