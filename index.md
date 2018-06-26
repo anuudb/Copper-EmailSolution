@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Copper Email Solution
 
 Copper Email Solution is a corporate email solution which can be used by any corporate organization and monitor and control from a central access point. It consists of 3 main parts as
@@ -19,11 +11,24 @@ Copper Email Solution is a corporate email solution which can be used by any cor
 
 ## Copper Base
 
-> Copper Base has the main compon
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Copper Base contain the email  soltions.
+  > Postfix (MTA)
+  > Dovecot (MDA)
+  > Rspamd  (spam filter)
+  > Rainloop (Web mail)
+  > OpenLdap 
+  
 
-### Header 3
+### Postfix
+- [POSTFIX](http://www.postfix.org/) : a modular mail transfer agent.
+### Dovecot
+- [DOVECOT](https://www.dovecot.org/) : secure open-source IMAP and POP3 server.
+### Rspamd
+- [Rspamd](https://rspamd.com/) : spam filter.
+### Rainloop
+- [RAINLOOP](https://www.rainloop.net/) : web client to access mail for users.
+### OpenLDAP
+- [openldap](https://www.openldap.org/) : directory service which authenticate users.
 
 ```js
 // Javascript code with syntax highlighting.
@@ -33,94 +38,40 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```Deply the project
 ```
 
-#### Header 4
+## Contributors wellcome
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Due to this is an opensource project contributors are welcome.
+Copperbase readme file describe how to use this solution in development environments.
+So any one who willing to contribute are wellcome and coppermail team is ready to support through their contacts.
 
-##### Header 5
+https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Instruction for deployment (summary)
 
-###### Header 6
+#### Create environment
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. Clone this Repository
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+$ git clone https://github.com/LankaSoftwareFoundation/copper-base.git
 ```
 
+2. Edit .env file to replicate your settings
+
+3. Create external Docker Network
+
 ```
-The final element.
+$ docker network create front
+$ docker network create back
 ```
+#### Run
+
+Run the system and start all services by :
+
+```
+$ docker-compose up -d 
+```
+
