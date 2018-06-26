@@ -4,12 +4,19 @@ layout: default
 
 # Copper Email Solution
 
+
 Copper Email Solution is a corporate email solution which can be used by any corporate organization and monitor and control from a central access point. It consists of 3 main parts as
 1. Copper Base
 2. Copper Suite
 3. Copper Hub
 
+
 ## Copper Base
+
+### Architecture
+
+![Octocat](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/mailServerArchitecture.png)
+
 
 > Copper Base contain the email  soltions.
   > Postfix (MTA)
