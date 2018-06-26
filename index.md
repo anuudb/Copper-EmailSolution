@@ -15,7 +15,6 @@ Copper Email Solution is a corporate email solution which can be used by any cor
 
 ### Architecture
 
-### Small image
 ![Octocat](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/mailServerArchitecture.png)
 
 
