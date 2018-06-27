@@ -61,3 +61,6 @@ Run the system and start all services by :
 $ docker-compose up -d 
 ```
 
+#### You may join the copper mail group for updates.
+
+- [Click me for check on mail group](https://groups.google.com/forum/#!forum/lsf-email-solution)
