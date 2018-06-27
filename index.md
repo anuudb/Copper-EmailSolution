@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Copper Email Solution
 
 
@@ -45,9 +41,9 @@ https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md
 $ git clone https://github.com/LankaSoftwareFoundation/copper-base.git
 ```
 
-2. Edit .env file to replicate your settings
+2. Edit ".env" file to replicate your settings
 
-3. Create external Docker Network
+3. Create external docker networks using below commands
 
 ```
 $ docker network create front
