@@ -1,4 +1,4 @@
-Copper Email Solution is a corporate email solution which can be used by any corporate organization and monitor and control from a central access point. It consists of 3 main parts as
+Copper email solution can be used by any organization and can be monitored and controled from a central access point. It consists of 3 main parts
 1. Copper-base
 2. Copper-suite
 3. Copper-hub
@@ -13,18 +13,18 @@ Copper Email Solution is a corporate email solution which can be used by any cor
 
 #### Copper-base main components.
 
-- [Postfix](http://www.postfix.org/) : a modular mail transfer agent. (MTA)
-- [Dovecot](https://www.dovecot.org/) : secure open-source IMAP and POP3 server. (MDA)
-- [Rspamd](https://rspamd.com/) : spam filter.
-- [Rainloop](https://www.rainloop.net/) : web client to access mail for users.
-- [OpenLDAP](https://www.openldap.org/) : directory service which authenticate users.
+- [Postfix](http://www.postfix.org/) : a modular mail transfer agent (MTA)
+- [Dovecot](https://www.dovecot.org/) : secure open-source IMAP and POP3 server (MDA)
+- [Rspamd](https://rspamd.com/) : spam filter
+- [Rainloop](https://www.rainloop.net/) : web client to access mail for users
+- [OpenLDAP](https://www.openldap.org/) : directory service which authenticate users
 
 
-## Contributors wellcome
+## Contributors are wellcome
 
-Due to this is an opensource project contributors are welcome.
+Due to this is an opensource project, contributors are welcome.
 Copper-base readme file describe how to use this solution in development environments.
-So any one who willing to contribute are wellcome and coppermail team is ready to support through their contacts.
+So any one whom, willing to contribute are wellcome and coppermail team is ready to support.
 
 [Further readings](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
 
@@ -32,7 +32,7 @@ So any one who willing to contribute are wellcome and coppermail team is ready t
 
 #### Create environment
 
-1. Clone this Repository
+1. Clone the repository [Copper-base](https://github.com/LankaSoftwareFoundation/copper-base.git)
 
 ```
 $ git clone https://github.com/LankaSoftwareFoundation/copper-base.git
