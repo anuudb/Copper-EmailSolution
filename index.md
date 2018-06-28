@@ -11,7 +11,7 @@ Copper Email Solution is a corporate email solution which can be used by any cor
 ![Octocat](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/mailServerArchitecture.png?raw=true)
 
 
-#### Copper Base contains the email  soltions.
+#### Copper-base main components.
 
 - [Postfix](http://www.postfix.org/) : a modular mail transfer agent. (MTA)
 - [Dovecot](https://www.dovecot.org/) : secure open-source IMAP and POP3 server. (MDA)
