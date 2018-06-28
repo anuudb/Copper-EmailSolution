@@ -29,7 +29,7 @@ Due to this is an opensource project contributors are welcome.
 Copper-base readme file describe how to use this solution in development environments.
 So any one who willing to contribute are wellcome and coppermail team is ready to support through their contacts.
 
--[Further readings](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
+[Further readings](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
 
 ### Instruction for deployment (summary)
 
