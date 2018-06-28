@@ -54,7 +54,7 @@ Run the system and start all services by :
 $ docker-compose up -d 
 ```
 
-#### Stay is touch with us.
+#### Stay in touch with us.
 
 - [mail group](https://groups.google.com/forum/#!forum/lsf-email-solution) 
 
