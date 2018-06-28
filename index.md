@@ -1,13 +1,10 @@
-# Copper Email Solution
-
-
 Copper Email Solution is a corporate email solution which can be used by any corporate organization and monitor and control from a central access point. It consists of 3 main parts as
 1. Copper-base
 2. Copper-suite
 3. Copper-hub
 
 
-## Copper Base
+## Copper-base
 
 ### Architecture
 
