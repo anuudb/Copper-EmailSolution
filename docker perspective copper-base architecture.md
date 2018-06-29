@@ -17,7 +17,7 @@
 
 This is very important when accessing internal web application through a single point. It works as a reverse proxy for following web portals.
   1. web mail
-  2. phpldapadmin
+  2. phpLDAPadmin
   3. agent
 
 #### 2 Email server
