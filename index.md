@@ -26,7 +26,11 @@ Due to this is an opensource project, contributors are welcome.
 Copper-base readme file describe how to use this solution in development environments.
 So any one whom, willing to contribute are wellcome and coppermail team is ready to support.
 
-[Further readings](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
+### Further readings
+
+[Copper-base readme.md](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
+
+[Docker perspective copper base architecture](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/docker%20perspective%20copper-base%20architecture.md)
 
 ### Instruction for deployment (summary)
 
