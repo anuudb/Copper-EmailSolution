@@ -28,9 +28,9 @@ So any one whom, willing to contribute are wellcome and coppermail team is ready
 
 ### Further readings
 
-[Copper-base readme.md](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
+  1. [Copper-base readme.md](https://github.com/LankaSoftwareFoundation/copper-base/blob/master/README.md)
 
-[Docker perspective copper base architecture](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/docker%20perspective%20copper-base%20architecture.md)
+  2. [Docker perspective copper base architecture](https://github.com/LankaSoftwareFoundation/Copper-EmailSolution/blob/master/docker%20perspective%20copper-base%20architecture.md)
 
 ### Instruction for deployment (summary)
 
