@@ -3,11 +3,11 @@
 #### In here we are trying to give some brief idea about, how copper-base behave in docker envirenment. 
 #### Copper-base contains main 5 docker containers. Those are
 
-  - Reverse proxy (C1)
-  - Email server (C2)
-  - LDAP (C3)
-  - Webmail (C4)
-  - Redis (5)
+  - Reverse proxy (Container 1)
+  - Email server (Container 2)
+  - LDAP (Container 3)
+  - Webmail (Container 4)
+  - Redis (Container 5)
   
 #### Diagram
 
