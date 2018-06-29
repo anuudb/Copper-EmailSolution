@@ -26,7 +26,7 @@ Main container in the solution. It has Postfix (as SMTP server), Dovecot, mailbo
 
 #### 3 LDAP
 
-This is the directory service and it holds user data. It works as the user management part of the copper email server. Admin user can access the LDAP data through "phpLDAPadmin" protal.
+This is the directory service and it holds user data. It works as the user management part of the copper email server. Admin user can access the LDAP data through "phpLDAPadmin" portal.
 
 #### 4 Webmail
 
