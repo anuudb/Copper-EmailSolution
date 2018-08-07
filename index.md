@@ -18,7 +18,6 @@ Copper email solution can be used by any organization and can be monitored and c
 - [ClamAV](https://www.clamav.net/) : Antivirus software
 - [Amavis](https://www.amavis.org/) : Content filter (Support for ClamAV)
 - [Rspamd](https://rspamd.com/) : spam filter
-- [SpamAssassin](https://spamassassin.apache.org/) : spam filter
 - [Rainloop](https://www.rainloop.net/) : web client to access mail for users
 - [OpenLDAP](https://www.openldap.org/) : directory service which authenticate users
 
