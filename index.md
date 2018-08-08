@@ -59,6 +59,7 @@ $ docker network create back
 Run the system and start all services by :
 
 ```
+$ docker-compose build
 $ docker-compose up -d 
 ```
 
