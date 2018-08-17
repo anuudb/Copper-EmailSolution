@@ -16,7 +16,6 @@ Copper email solution can be used by any organization and can be monitored and c
 - [Postfix](http://www.postfix.org/) : a modular mail transfer agent (MTA)
 - [Dovecot](https://www.dovecot.org/) : secure open-source IMAP and POP3 server (MDA)
 - [ClamAV](https://www.clamav.net/) : Antivirus software
-- [Amavis](https://www.amavis.org/) : Content filter (Support for ClamAV)
 - [Rspamd](https://rspamd.com/) : spam filter
 - [Rainloop](https://www.rainloop.net/) : web client to access mail for users
 - [OpenLDAP](https://www.openldap.org/) : directory service which authenticate users
