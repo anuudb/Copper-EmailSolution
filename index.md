@@ -13,12 +13,13 @@ Copper email solution can be used by any organization and can be monitored and c
 
 #### Copper-base main components.
 
-- [Postfix](http://www.postfix.org/) : a modular mail transfer agent (MTA)
-- [Dovecot](https://www.dovecot.org/) : secure open-source IMAP and POP3 server (MDA)
+- [Postfix](http://www.postfix.org/) : A modular mail transfer agent (MTA)
+- [Dovecot](https://www.dovecot.org/) : Secure open-source IMAP and POP3 server (MDA)
 - [ClamAV](https://www.clamav.net/) : Antivirus software
-- [Rspamd](https://rspamd.com/) : spam filter
-- [Rainloop](https://www.rainloop.net/) : web client to access mail for users
-- [OpenLDAP](https://www.openldap.org/) : directory service which authenticate users
+- [Rspamd](https://rspamd.com/) : Spam filter
+- [Rainloop](https://www.rainloop.net/) : Web client to access mail for users
+- [Horde](https://www.horde.org/) : Web client with advanced functions like calander, notes, tasks etc...
+- [OpenLDAP](https://www.openldap.org/) : Directory service which authenticate users
 
 
 ## Contributors are wellcome
