@@ -8,8 +8,8 @@
   - LDAP (Container 3)
   - Webmail Rainloop (Container 4)
   - Redis (Container 5)
-  - Webmail Horde (Not added)
-  - MariaDB (Not added)
+  - Webmail Horde (Not added to the graph)
+  - MariaDB (Not added to the graph)
   
 #### Diagram
 
