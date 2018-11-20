@@ -18,8 +18,6 @@ Copper email solution can be used by any organization and can be monitored and c
 - [ClamAV](https://www.clamav.net/) : Antivirus software
 - [Rspamd](https://rspamd.com/) : Spam filter
 - [Rainloop](https://www.rainloop.net/) : Web client to access mail for users
-- [Horde](https://www.horde.org/) : Web client with advanced functions like calander, notes, tasks etc...
-- [MariaDB](https://mariadb.org/) : For store data from Horde. 
 - [OpenLDAP](https://www.openldap.org/) : Directory service which authenticate users
 
 
